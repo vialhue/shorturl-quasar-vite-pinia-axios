@@ -39,16 +39,27 @@ Fuente: https://quasar.dev/start/quasar-cli
 Se ha iniciado el proyecto con el CLI, seleccionando las siguientes opciones:
 
 ✔ What would you like to build? › App with Quasar CLI, let's go!
+
 ✔ Project folder: … shorturl-quasar-vite-pinia-axios
+
 ✔ Pick Quasar version: › Quasar v2 (Vue 3 | latest and greatest)
+
 ✔ Pick script type: › Javascript
+
 ✔ Pick Quasar App CLI variant: › Quasar App CLI with Vite
+
 ✔ Package name: … shorturl-quasar-vite-pinia-axios
+
 ✔ Project product name: (must start with letter if building mobile apps) … Short URL
+
 ✔ Project description: … Acortador de URL con QUASAR
+
 ✔ Author: … Vicente Alcañiz Huerta <vialhue@gmail.com>
+
 ✔ Pick your CSS preprocessor: › Sass with SCSS syntax
+
 ✔ Check the features needed for your project: › ESLint, State Management (Pinia), Axios, Vue-i18n
+
 ✔ Pick an ESLint preset: › Prettier
 
 ## Correcciones sobre la plantilla estandar proporcionada por QUASAR CLI.
