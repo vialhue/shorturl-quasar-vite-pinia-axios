@@ -64,9 +64,9 @@ Se ha iniciado el proyecto con el CLI, seleccionando las siguientes opciones:
 
 ## Correcciones sobre la plantilla estandar proporcionada por QUASAR CLI.
 
-He realizado la traducción al castellano de los comentarios incluidos en los diferentes ficheros de la plantilla original, y también he completado los scripts para DEV y BUILD que parece que no se incluyen en la plantilla.
+- He realizado la traducción al castellano de los comentarios incluidos en los diferentes ficheros de la plantilla original, y también he completado los scripts para DEV y BUILD que parece que no se incluyen en la plantilla.
 
-En el `package.json` se ha actualizado los `scripts`:
+- En el `package.json` se ha actualizado los `scripts`:
 
 ```json
   "scripts": {
@@ -77,3 +77,7 @@ En el `package.json` se ha actualizado los `scripts`:
     "build": "quasar build"
   },
 ```
+
+- Correcciones en el `MainLayout.vue` de la plantilla original para aprobechar las nuevas características del Composition API.
+
+https://vuejs.org/guide/introduction.html#api-styles
